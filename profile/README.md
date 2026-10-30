@@ -1,1 +1,1 @@
-Bitgold Network Technical Resources, powered by Bitgold Team under Open Laboratory.
+Bitgold is a hub network based on blockchain technology. Building upon existing blockchain frameworks, it introduces the concept of a “fully open protocol-based cross-chain” system. It aims to “make the transfer of value (tokens/NFTs/messages) between different blockchains and the traditional Internet as simple as sending an email. 
